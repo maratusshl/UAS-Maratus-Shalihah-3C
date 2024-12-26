@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676ca97b8a4883618bfe6911"},"iduser":"10023","nama":"ratu","email":"ratucantik@gmail.com","peran":"admin","status":"aktif"}
+{"_id":{"$oid":"676caa138a4883618bfe6912"},"iduser":"1123","nama":"adinda","email":"adindanailah@gmail.com","peran":"customer","status":"aktif"}
+{"_id":{"$oid":"676caa138a4883618bfe6913"},"iduser":"1223","nama":"umi","email":"umidwi@gmail.com","peran":"admin","status":"tidak aktif"}

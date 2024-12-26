@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676cac368a4883618bfe6917"},"idbooking":"67","iduser":"28","idperahu":"15","tanggal pemesanan":"28 januari","total sewa":"37.000"}
+{"_id":{"$oid":"676cacac8a4883618bfe6918"},"idbooking":"98","iduser":"15","idperahu":"28","tanggal pemesanan":"4 mei","total sewa":"500.000"}
+{"_id":{"$oid":"676cacac8a4883618bfe6919"},"idbooking":"103","iduser":"21","idperahu":"22","tanggal pemesanan":"22 juli","total sewa":"1.345.000"}

@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676caa7d8a4883618bfe6914"},"idperahu":"23","nama perahu":"perahu ratu","jenis":"speedboat","kapasitas":"95 orang","status":"tersedia"}
+{"_id":{"$oid":"676cabdc8a4883618bfe6915"},"idperahu":"15","nama perahu":"perahu umi","jenis":"kapal tradisional","kapasitas":"105 orang","status":"tersedia"}
+{"_id":{"$oid":"676cabdc8a4883618bfe6916"},"idperahu":"12","nama perahu":"kapal sipot","jenis":"kapal laut","kapasitas":"tidak tersedia"}
